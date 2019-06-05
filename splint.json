@@ -1,0 +1,16 @@
+{
+  "name": "francis94c/user-auth",
+  "type": "library",
+  "description": "Library for User Sign-Up and Authentiction (Login) in Code Igniter.",
+  "tags": ["auth", "user", "register"],
+  "page": "https://github.com/francis94c/user-auth",
+  "authors": [
+    {
+      "name": "Francis Ilechukwu",
+      "email": "francis94c@gmail.com",
+      "page": "about.me/francisilechukwu",
+      "role": "Developer"
+    }
+  ],
+  "php": ">=5.3.0"
+}
